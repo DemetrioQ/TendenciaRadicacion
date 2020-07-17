@@ -1,0 +1,13 @@
+C:\Code\Tendencias Lab\Examen Final\Radicacion.Src\bin\Debug\netcoreapp3.1\Radicacion.Src.exe
+C:\Code\Tendencias Lab\Examen Final\Radicacion.Src\bin\Debug\netcoreapp3.1\Radicacion.Src.deps.json
+C:\Code\Tendencias Lab\Examen Final\Radicacion.Src\bin\Debug\netcoreapp3.1\Radicacion.Src.runtimeconfig.json
+C:\Code\Tendencias Lab\Examen Final\Radicacion.Src\bin\Debug\netcoreapp3.1\Radicacion.Src.runtimeconfig.dev.json
+C:\Code\Tendencias Lab\Examen Final\Radicacion.Src\bin\Debug\netcoreapp3.1\Radicacion.Src.dll
+C:\Code\Tendencias Lab\Examen Final\Radicacion.Src\bin\Debug\netcoreapp3.1\Radicacion.Src.pdb
+C:\Code\Tendencias Lab\Examen Final\Radicacion.Src\obj\Debug\netcoreapp3.1\Radicacion.Src.csprojAssemblyReference.cache
+C:\Code\Tendencias Lab\Examen Final\Radicacion.Src\obj\Debug\netcoreapp3.1\Radicacion.Src.csproj.CoreCompileInputs.cache
+C:\Code\Tendencias Lab\Examen Final\Radicacion.Src\obj\Debug\netcoreapp3.1\Radicacion.Src.AssemblyInfoInputs.cache
+C:\Code\Tendencias Lab\Examen Final\Radicacion.Src\obj\Debug\netcoreapp3.1\Radicacion.Src.AssemblyInfo.cs
+C:\Code\Tendencias Lab\Examen Final\Radicacion.Src\obj\Debug\netcoreapp3.1\Radicacion.Src.dll
+C:\Code\Tendencias Lab\Examen Final\Radicacion.Src\obj\Debug\netcoreapp3.1\Radicacion.Src.pdb
+C:\Code\Tendencias Lab\Examen Final\Radicacion.Src\obj\Debug\netcoreapp3.1\Radicacion.Src.genruntimeconfig.cache
